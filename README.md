@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**yakahashikurumi/yakahashikurumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+.card {
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    width: 100%;
+}
 
-Here are some ideas to get you started:
+.img1 img{
+    position: relative;
+    display: block;
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    height: 360px;
+}
+</style>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="card">
+    <div class="img1">
+        <img src="cov.jpg">
+    </div>
+</div>
